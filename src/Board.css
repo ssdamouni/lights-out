@@ -1,0 +1,8 @@
+.Board {
+  margin: 0 auto;
+  background-color: whitesmoke;
+  padding: 3%;
+  border-radius: 5%;
+  border: 5px black solid;
+  box-shadow: -0.2rem -0.2rem 1rem #fdfd96, 0.2rem 0.2rem 1rem #fdfd96;
+}
